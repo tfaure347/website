@@ -9,11 +9,11 @@ hide:
 
 ---
 
-# Développer, proposer et promouvoir la Low-technologie.
+# Faite vous plaize
 
 Nous proposons des outils et méthodes utiles au développement, à la fabrication et à l’appropriation de la Low-technologie.
 
-??? tip "Qu'est ce que la Low-tech ?"
+???+ tip "Qu'est ce que la Low-tech ?"
 
     ## **Utile, Durable et accessible**
     
